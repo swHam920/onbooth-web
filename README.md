@@ -23,12 +23,12 @@ npm run dev
 ## 주요 경로
 
 - `/` : 홈
-- `/category/industry` : 산
-- `/category/academy` : 학
-- `/category/research` : 연
-- `/category/hospital` : 병
+- `/category/industry` : 산업
+- `/category/academy` : 교육
+- `/category/research` : 연구
+- `/category/hospital` : 의료
 - `/lounge` : 라운지 메인
 - `/lounge/free` : 자유게시판
-- `/lounge/private` : 프라이빗(CEO)
-- `/lounge/vip` : VIP(오프라인 모임)
+- `/lounge/private` : 프라이빗
+- `/lounge/vip` : VIP
 - `/support` : 고객센터
