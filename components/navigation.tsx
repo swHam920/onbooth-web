@@ -1,10 +1,10 @@
 import Link from 'next/link';
 
 const menus = [
-  { label: '산', href: '/category/industry' },
-  { label: '학', href: '/category/academy' },
-  { label: '연', href: '/category/research' },
-  { label: '병', href: '/category/hospital' },
+  { label: '산업', href: '/category/industry' },
+  { label: '교육', href: '/category/academy' },
+  { label: '연구', href: '/category/research' },
+  { label: '의료', href: '/category/hospital' },
   { label: '라운지', href: '/lounge' },
   { label: '고객센터', href: '/support' },
 ];
